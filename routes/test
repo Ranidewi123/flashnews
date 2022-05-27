@@ -1,0 +1,13 @@
+ /*
+        .navbar-light .navbar-nav .nav-link {
+            color: #ffffff;
+        }
+        .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+            color: #ffffff;
+        }
+        .navbar-light .navbar-brand {
+            color: #ffffff;
+        }
+        a:hover {
+            color: #ffA500 !important;
+        }*/
